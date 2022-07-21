@@ -43,9 +43,13 @@ Click the link to watch: https://www.youtube.com/watch?v=blnPDwLkvNM
 Researcher/ Developer
 
 Barbacena, Adams
+
 Gonzales, Zaldy
+
 Telin, Jerrymie
+
 Ular, Joseph
+
 Usman, Michael
 
 
