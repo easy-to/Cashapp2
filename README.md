@@ -13,3 +13,19 @@ FEATURES
 1. Registration
 
 ![registration](https://user-images.githubusercontent.com/109512611/180120843-7a2dc234-3590-4d2a-a3de-72138e0799e3.png)
+
+2. LOGIN
+
+![login](https://user-images.githubusercontent.com/109512611/180121168-d31fc7c9-a619-4603-acc3-43e70f0bc74b.png)
+
+3. Verification
+
+![veification](https://user-images.githubusercontent.com/109512611/180121224-a420b9b6-73bd-40e1-a54f-0b8b07d7361d.png)
+
+4. Userpage
+
+![userpage](https://user-images.githubusercontent.com/109512611/180121249-48c18ef7-3ac5-44fa-9d11-dc2f9fb55100.png)
+
+5. Send Money
+
+![send money](https://user-images.githubusercontent.com/109512611/180121287-27fb7d8a-5433-4f8f-8da5-17c72179f7df.jpg)
