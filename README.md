@@ -29,3 +29,7 @@ FEATURES
 5. Send Money
 
 ![send money](https://user-images.githubusercontent.com/109512611/180121287-27fb7d8a-5433-4f8f-8da5-17c72179f7df.jpg)
+
+6. View Reports
+
+![view reports](https://user-images.githubusercontent.com/109512611/180121666-4f8435e4-e585-44a0-b646-e1a9e8aca19b.png)
