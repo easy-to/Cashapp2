@@ -33,3 +33,34 @@ FEATURES
 6. View Reports
 
 ![view reports](https://user-images.githubusercontent.com/109512611/180121666-4f8435e4-e585-44a0-b646-e1a9e8aca19b.png)
+
+DEMO VIDEO
+
+Click the link to watch: https://www.youtube.com/watch?v=blnPDwLkvNM
+
+Researcher/ Developer
+
+Barbacena, Adams
+Gonzales, Zaldy
+Telin, Jerrymie
+Ular, Joseph
+Usman, Michael
+
+Adviser:
+
+Jefferson A. Costales
+
+School name:
+
+Eulogio "Amang" Rodriguez Insitute of Science and Technology
+
+Nagtahan, Sampaloc, Manila, Philippines
+
+College of Arts and Sciences
+
+ITE Department
+
+Course:
+
+Bachelor of Science in Computer Science
+
